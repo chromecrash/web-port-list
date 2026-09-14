@@ -237,6 +237,7 @@
 - [You Want Half a Mounds Bar](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) - port by dude
 - [Your Only Move is Hustle](https://github.com/webporting/Your-Only-Move-Is-HUSTLE), [2](https://github.com/web-ports/yomi-hustle) - port by [bog/aukak](https://github.com/aukak)
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [bread](https://github.com/genizy)
+- [Zato](https://github.com/z4laxis/ZatoWebport) - port by [zalaxis](https://github.com/z4laxis)
 
 <!-- # decomps
 [Muck](https://github.com/sodiboo/Muck) - decomp by [sodiboo](https://github.com/sodiboo) -->
