@@ -51,6 +51,7 @@
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
 - [Dawnfolk](https://github.com/degloved-net/dawnfolk) - port by [cirsius](https://github.com/cirsius)
 - [Deltarune Chapters 1-4](https://aukak.itch.io/deltarune) - Ported by [bread](https://github.com/genizy), Archived by [bog/aukak](https://github.com/aukak)
+- [Dewdrop Dynasty](https://github.com/obsidian-ports/Dewdrop-Dynasty) - Port by [Nebelung](https://github.com/Nebelung-Dev) for [Obsidian Ports](https://github.com/obsidian-ports)
 - [Dice a Million](https://github.com/NotRexed/Unblocked-Games/tree/main/diceamillion) - port by [NotRexed](https://github.com/NotRexed)
 - [Dictators:No Peace Countryballs](https://github.com/web-ports/countryballsdictator) - port by [bread](https://github.com/genizy)
 - [Digital Logic Simulator](https://github.com/thecheetoman/DLSWebPort)
