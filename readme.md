@@ -170,6 +170,7 @@
 - [Raldi's Crackhouse](https://github.com/woahhcrackers/RaldiWeb-LEGACY) - port by [crackers](https://github.com/woahhcrackers)
 - [R.E.P.O](https://github.com/genizy/web-port/tree/main/repo) - Ported by [98Corbins](https://98.c0rbin.fun/)
 - [RE:RUN](https://github.com/aukak/RE-RUN) - ported by [bog/aukak](https://github.com/aukak)
+- [Rimworld](https://github.com/SomeRandomFella/portsandrips/tree/master/rimworld) - port by  [sexyplankton](https://github.com/SomeRandomFella)
 - [Running Fred](https://github.com/aukak/running-fred) - port by [bog/aukak](https://github.com/aukak)
 - [Saihate Station](https://github.com/web-ports/saihate-station)
 - [Scoutdingo](https://github.com/web-ports/scoutdingo) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
