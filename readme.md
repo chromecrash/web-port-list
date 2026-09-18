@@ -207,6 +207,7 @@
 - [Taiko no Tatsujin](https://cjdgrevival.com/)
 - [Terraria](https://github.com/MercuryWorkshop/terraria-wasm), [2](https://github.com/web-ports/terraria) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop), modified by [bread](https://github.com/genizy)
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
+- [The Binding of Isaac: Repentance](https://github.com/chiikabu/the-browsing-of-isaac) - port by [chiikabu](https://github.com/chiikabu)
 - [The Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window 2](https://github.com/wasm-rip/the-man-from-the-window-2-web) - port by dude
